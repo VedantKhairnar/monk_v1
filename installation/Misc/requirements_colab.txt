@@ -1,4 +1,4 @@
 GPUtil
-mxnet-cu101
+mxnet
 pylg
 gluoncv
